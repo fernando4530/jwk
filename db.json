@@ -13,7 +13,7 @@
         "kid": "dc7132dcf0933f7b4e55d2bdfc71b004"
       }
     ]
-  }
+  },
     "public-jwk": {
   "alg": "RS256",
   "e": "AQAB",
