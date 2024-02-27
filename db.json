@@ -14,4 +14,15 @@
       }
     ]
   }
+    "public-jwk": {
+  "alg": "RS256",
+  "e": "AQAB",
+  "key_ops": [
+    "verify"
+  ],
+  "kty": "RSA",
+  "n": "zjvbcMRqTOVQ8PGgVwZZYEFOtuelb_qEvmKdW2BZpJxXjJ9peVR1WyzhNHekd_nYWk--yblAfjXMWVCVvlEAqpXf6XUp4m6dtpGBvNt22W3G6qh4Iewo3hyku4Be6ntGLBx_o4n2bYiTdvbbl2U4nSCFgR_itATu1tDVddGst7HewsoYN2qAQI71X_YWDnTbddg3a1NN6eXJSMtE1pjZ7jFum4X3h2HR0bvqU62i3Afuy02t91f1QS-amTyYJjHGl_JLDWrrkPZK_CEkAbL-UdL0VJ2Fc2XO4WvJr4b-oT8rSIX2QMJk8lt4D6z98E2OJpiJxRjwgabPgWNRsetFiQ",
+  "use": "sig",
+  "kid": "d83ed9db54910fb8ec239ee1943eda5d"
+}
 }
