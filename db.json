@@ -1,28 +1,12 @@
 {
-  "value": {
-    "keys": [
-      {
-        "alg": "RS256",
-        "e": "AQAB",
-        "key_ops": [
-          "verify"
-        ],
-        "kty": "RSA",
-        "n": "5O6Ewpiek1Iee_yQphgHZcDBE2GOBfshi_Zo4dLzDwTIoVc8pyc6IUIKUBdTnqF7A_GVQFL9IWMjprDIaq-vWEnF2aEX0X_U_qIijqJdTKqJL8YJ29FmkgZEBthxXHF7zJlxUs7Mz0U0BlD3cijfmSW9-OuFzulhvK7CBR_baID3zt39FmQbXWqjr2fTc6YP3K8ah8nsaStK_JE6g91P_SDhSbdzcL1HBqwP1gJ8oNEba0Ls0s2NVk_4G3H3vjlPZsniAac6SJVbVn8pVdfJ_m-sDg90rIVfys97_oW6m_amdmuxSte83atDYBpeBMIv1NfOj8-E7av3BgqbYcjpZHO9In03SDXqDS773WBYbKlyAvi1CCDMKOWv58KDEoVW9HX4IN8U05Mb8RZDWOcIzTD5b-DhnEpCIepTz4I_OPsjwH9OuIbuzjGTJJjUlDdEm2_kpy-PlwCMJMCI_A3y-iwTvB2jN76kT5AN3uEJhQEppSSgzig4FQnA-z8lOnT1",
-        "use": "sig",
-        "kid": "dc7132dcf0933f7b4e55d2bdfc71b004"
-      }
-    ]
-  },
-    "public-jwk": {
-  "alg": "RS256",
-  "e": "AQAB",
-  "key_ops": [
-    "verify"
-  ],
-  "kty": "RSA",
-  "n": "zjvbcMRqTOVQ8PGgVwZZYEFOtuelb_qEvmKdW2BZpJxXjJ9peVR1WyzhNHekd_nYWk--yblAfjXMWVCVvlEAqpXf6XUp4m6dtpGBvNt22W3G6qh4Iewo3hyku4Be6ntGLBx_o4n2bYiTdvbbl2U4nSCFgR_itATu1tDVddGst7HewsoYN2qAQI71X_YWDnTbddg3a1NN6eXJSMtE1pjZ7jFum4X3h2HR0bvqU62i3Afuy02t91f1QS-amTyYJjHGl_JLDWrrkPZK_CEkAbL-UdL0VJ2Fc2XO4WvJr4b-oT8rSIX2QMJk8lt4D6z98E2OJpiJxRjwgabPgWNRsetFiQ",
-  "use": "sig",
-  "kid": "d83ed9db54910fb8ec239ee1943eda5d"
-}
+  "value": [
+  {
+    "id": "12324",
+    "name": "User profile 1"
+    },
+  {
+    "id": "56789",
+    "name": "User profile 2"
+    }
+]
 }
