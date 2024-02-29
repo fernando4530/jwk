@@ -13,5 +13,17 @@
         "kid": "dc7132dcf0933f7b4e55d2bdfc71b004"
       }
     ]
-  }
+  },
+  "user-profile":{
+  "client_id": "12312312",
+  "authentication_context": [
+    {
+      "identifier": "123456789",
+      "type": "uid",
+      "activated_roles": [
+        "owner"
+      ]
+    }
+  ]
+}
 }
