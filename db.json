@@ -36,5 +36,11 @@
     "id": "56789",
     "name": "User profile 2"
     }
-]
+],
+    "user": 
+    
+  {
+    "id": "1234",
+    "name": "User profile 1"
+    }
 }
