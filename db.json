@@ -25,5 +25,16 @@
       ]
     }
   ]
-}
+},
+  "users": 
+    [
+  {
+    "id": "12324",
+    "name": "User profile 1"
+    },
+  {
+    "id": "56789",
+    "name": "User profile 2"
+    }
+]
 }
