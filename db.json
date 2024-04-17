@@ -14,28 +14,6 @@
       }
     ]
   },
-  "user-profile": {
-    "client_id": "12312312",
-    "authentication_context": [
-      {
-        "identifier": "123456789",
-        "type": "uid",
-        "activated_roles": [
-          "owner"
-        ]
-      }
-    ]
-  },
-  "users": [
-    {
-      "id": "12324",
-      "name": "User profile 1"
-    },
-    {
-      "id": "56789",
-      "name": "User profile 2"
-    }
-  ],
   "user": {
     "id": "1234",
     "name": "User profile 1"
